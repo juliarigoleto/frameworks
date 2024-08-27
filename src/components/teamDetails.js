@@ -261,7 +261,6 @@ const teamsData = {
         formacao: [
         { position: 'Goleiro', name: 'Gabriel Delfin, Everson, Matheus Mendes e Gabriel Átila'},
         { position: 'Zagueiro', name: 'Lyanco, Bruno Fuchs, Lemos, Alonso, Igor Rabello e Rômulo'},
-        { position: 'Volante', name: ''},
         { position: 'Lateral Direito', name: 'Mariano e Saraiva'},
         { position: 'Lateral Esquerdo', name: 'Guilherme Arana e Rubens'},
         { position: 'Meio Campista', name: 'Otávio, Gustavo Scarpa, Zaracho, Igor Gomes, Fausto Vera, Bernard, Battaglia, Alan Franco, Paulo Vitor, e Robert'},
