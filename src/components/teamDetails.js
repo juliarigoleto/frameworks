@@ -425,3 +425,5 @@ const TeamDetails = ({ team }) => {
 };
 
 export default TeamDetails;
+
+//mudando
